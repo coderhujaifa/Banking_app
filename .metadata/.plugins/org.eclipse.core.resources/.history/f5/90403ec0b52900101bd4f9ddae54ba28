@@ -1,0 +1,5 @@
+package com.javaguides.banking.controller;
+
+public class AccountController {
+
+}

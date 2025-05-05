@@ -1,0 +1,5 @@
+package com.javaguides.banking.mapper;
+
+public class AccountMapper {
+
+}

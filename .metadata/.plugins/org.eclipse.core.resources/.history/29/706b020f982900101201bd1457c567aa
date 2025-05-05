@@ -1,0 +1,5 @@
+package com.javaguides.banking.repository;
+
+public class AccountRepository {
+
+}
